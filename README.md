@@ -1,6 +1,8 @@
 # Using-a-multiplexer-CD4051XX-with-Arduino
 Using a multiplexer CD4051XX with Arduino
 
+multiplexer example with TI CD4051DE - YouTube https://www.youtube.com/watch?v=3k38axlHOzY
+
 ## ref:
 
 Using a multiplexer with Arduino • AranaCorp
