@@ -9,6 +9,10 @@ multiplexer example with TI CD4051DE - YouTube https://www.youtube.com/watch?v=3
 
 ![multiplexer-cd4051be-logic-table](https://github.com/chibaf/Using-a-multiplexer-CD4051XX-with-Arduino/assets/1296728/2a19346a-5723-4b3b-9743-4f99f2f828fc)
 
+![multiplexer-cd4051be-pinout](https://github.com/chibaf/Using-a-multiplexer-CD4051XX-with-Arduino/assets/1296728/5e845bda-427c-4776-969f-99b9e0408584)
+
+![arduino-multiplexer-cd4051-led_bb](https://github.com/chibaf/Using-a-multiplexer-CD4051XX-with-Arduino/assets/1296728/ba7b508e-01b1-4d20-95da-ab0c9cfb0ba3)
+
 
 ## ref:
 
