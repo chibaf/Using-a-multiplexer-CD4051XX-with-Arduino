@@ -13,12 +13,13 @@ multiplexer example with TI CD4051BE - YouTube [https://www.youtube.com/watch?v=
 
 ![arduino-multiplexer-cd4051-led_bb](https://github.com/chibaf/Using-a-multiplexer-CD4051XX-with-Arduino/assets/1296728/ba7b508e-01b1-4d20-95da-ab0c9cfb0ba3)
 
+using_multiplexer_with_arduino.ino (*)
 
 ## ref:
 
 Using a multiplexer with Arduino • AranaCorp
 
-https://www.aranacorp.com/en/using-a-multiplexer-with-arduino/
+https://www.aranacorp.com/en/using-a-multiplexer-with-arduino/  (*)
 
 CD4051B | Buy TI Parts | TI.com
 
